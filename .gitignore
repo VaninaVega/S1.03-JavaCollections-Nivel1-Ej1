@@ -4,6 +4,8 @@ out/
 !**/src/test/**/out/
 .idea/
 
+.DS_Store
+
 ### Eclipse ###
 .apt_generated
 .classpath
@@ -25,6 +27,3 @@ bin/
 
 ### VS Code ###
 .vscode/
-
-### Mac OS ###
-.DS_Store
